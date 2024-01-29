@@ -2,7 +2,7 @@
 
 # EcomElite Analytics
 ##  <a href="https://github.com/MuhammadSaad-ml/User-Experience-Feedback-Analysis/blob/main/Report%20Project.docx">OBJECTIVES</a> 
-<img src="https://i.imgur.com/bO60jsL.p">
+<img src="https://i.imgur.com/bO60jsL.">
  
 <pre>
 
