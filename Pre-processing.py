@@ -24,6 +24,9 @@ df.isnull().sum()
 ## Dropping null values
 new_df=df.dropna()
 
+## Dropping null values
+df.dropna()
+
 ## Taking sample from data if its big
 sampled_data = new_df.sample(n=5000, random_state=42)
 
