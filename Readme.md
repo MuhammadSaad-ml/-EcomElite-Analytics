@@ -39,7 +39,7 @@ python -m venv envv
 
 Activate the virtual environment
 source env/bin/activate  # For Unix
-env\Scripts\activate      # For Windows
+env\Scripts\activate     # For Windows
 </pre>
 **3 .Install the required dependencies**
    <a href="">requirements.txt</a>
