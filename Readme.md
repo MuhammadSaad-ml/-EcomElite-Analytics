@@ -29,7 +29,7 @@ Files
 ## Steps
 **1.Clone the repository:**
 <pre>
-[git clone https://github.com/MuhammadSaad-ml/User-Experience-Feedback-Analysis]
+[git clone https://github.com/MuhammadSaad-ml/-EcomElite-Analytics]
 </pre>
 **2.Create a virtual environment using `venv` or `conda`**
    
