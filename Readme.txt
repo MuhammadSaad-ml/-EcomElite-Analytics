@@ -6,6 +6,7 @@ Stats-model
 Plotly
 Scikit-learn
 keras
+PyTorch	
 
 
 
