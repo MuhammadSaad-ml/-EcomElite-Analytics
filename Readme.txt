@@ -6,7 +6,8 @@ Stats-model
 Plotly
 Scikit-learn
 keras
-PyTorc
+PyTorch
+Scipy	
 
 
 
