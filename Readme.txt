@@ -7,7 +7,7 @@ Plotly
 Scikit-learn
 keras
 PyTorch
-Scipy...
+Scipy....
 
 
 
